@@ -7,6 +7,7 @@ module.exports = {
                     "node": 18
                 }
             }
-        ]
+        ],
+        'es2020'
     ]
 }
